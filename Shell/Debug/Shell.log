@@ -1,0 +1,7 @@
+﻿  Shell.cpp
+c:\users\erbas\desktop\fils\year ii\2nd semester\operating systems\final project\shell\shell\shell.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\erbas\desktop\fils\year ii\2nd semester\operating systems\final project\shell\shell\shell.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\erbas\desktop\fils\year ii\2nd semester\operating systems\final project\shell\shell\shell.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\erbas\desktop\fils\year ii\2nd semester\operating systems\final project\shell\shell\functions.h(21): warning C4715: 'hashit': not all control paths return a value
+  Shell.vcxproj -> C:\Users\erbas\Desktop\FILS\Year II\2nd Semester\Operating Systems\Final Project\Shell\Debug\Shell.exe
+  Shell.vcxproj -> C:\Users\erbas\Desktop\FILS\Year II\2nd Semester\Operating Systems\Final Project\Shell\Debug\Shell.pdb (Full PDB)
